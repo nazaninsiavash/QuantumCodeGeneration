@@ -3,7 +3,7 @@
 
 This repository contains the source code and experimental results for generating executable quantum code from Unified Modeling Language (UML) model instances using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).
 
-The approach uses GPT-4o to generate Python code compatible with IBM’s [Qiskit](https://www.ibm.com/quantum/qiskit) library. It evaluates how prompt specificity and RAG-based contextual information affect the correctness, completeness, and structural similarity of the generated quantum code. :contentReference[oaicite:0]{index=0}
+The approach uses GPT-4o to generate Python code compatible with IBM’s [Qiskit](https://www.ibm.com/quantum/qiskit) library. It evaluates how prompt specificity and RAG-based contextual information affect the correctness, completeness, and structural similarity of the generated quantum code. 
 
 ---
 
