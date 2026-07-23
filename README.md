@@ -107,7 +107,7 @@ This repository supports the following paper:
 ### Citation
 
 ```bibtex
-@inproceedings{siavash2025model,
+@inproceedings{SiavashMoin2025,
   author    = {Nazanin Siavash and Armin Moin},
   title     = {Model-Driven Quantum Code Generation Using Large Language Models and Retrieval-Augmented Generation},
   booktitle = {2025 ACM/IEEE 28th International Conference on Model Driven Engineering Languages and Systems (MODELS)},
