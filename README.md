@@ -1,4 +1,4 @@
-````markdown
+
 # Model-Driven Quantum Code Generation Using LLMs and RAG
 
 This repository contains the source code and experimental results for generating executable quantum code from Unified Modeling Language (UML) model instances using Large Language Models (LLMs) and Retrieval-Augmented Generation (RAG).
